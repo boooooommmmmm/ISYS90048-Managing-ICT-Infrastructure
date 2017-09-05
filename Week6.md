@@ -6,7 +6,7 @@ This week is talking about SOA
 <hr>
 <br />
 <hr>
-Cannot find Lulu today... T T
+
 <hr>
 
 <br />

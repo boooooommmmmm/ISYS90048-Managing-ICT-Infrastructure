@@ -3,7 +3,7 @@
 <hr>
 This week is talking about services
 <hr>
-Lulu dresses up today.
+
 <hr>
 
 <br />

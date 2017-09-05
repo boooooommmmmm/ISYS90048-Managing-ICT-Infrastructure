@@ -3,7 +3,7 @@
 <hr>
 This lecture covers ISYS90048_03a;ISYS90048_03b;ISYS90048_04
 
-Lulu is so cute today!
+
 <hr>
 
 <br />
