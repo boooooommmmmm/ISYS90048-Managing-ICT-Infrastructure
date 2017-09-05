@@ -19,6 +19,8 @@ Infrastructure is assets
 
 ## Enterprise Architecture
 
+(This course not talks about it)
+
 - Mission
 
 - Vision
@@ -38,18 +40,44 @@ Infrastructure is assets
 - Operations -> good architecture to earn money(what managing ICT going to do)
 
 
+#### Goals
+
+* cost
+* Agile
+* flexible
+* Faster, simple and cheaper...
+
+
 
 ### Four / five basis domains
 
-* Information / data
-* Business, 
-* ICT, 
-* Application / software
-* Security, 
+* Information / data Architecture -> keep and access the information
+* Business Architecture ->  identifying the requirements for IS which support the business activities ->
+* ICT Architecture -> defining enterprise specific technical standards
+* Application / software Architecture 
+* Security (some models hasn't)
 
 
 
-### Stages of Enterprise Architecture Maturity
 
-Maybe exam
+**Stages of Enterprise Architecture Maturity** （Maybe exam）
 
+
+
+Benefits of EA...
+
+
+
+Challenge of EA...
+
+
+
+**The business drivers determine the need to adopt an EA approach**
+
+
+
+
+
+----
+
+END
