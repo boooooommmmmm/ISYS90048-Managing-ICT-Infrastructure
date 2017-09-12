@@ -70,6 +70,10 @@ Benefits of EA...
 
 Challenge of EA...
 
+​		Complex
+
+
+
 
 
 **The business drivers determine the need to adopt an EA approach**
