@@ -39,7 +39,7 @@ Top 4 are very famous...
 * Assumes information about what the company plans to do
 * Assumes best practices
 
-​		 everything works
+  ​	 everything works
 
 * Governance framework for it
 
@@ -63,7 +63,7 @@ Top 4 are very famous...
   2. Create ICT Vision
   3. Assess ICT Alignment
   4. Identify Gaps in ICT Alignment
-  5. Prioritise ICT Initiatives
+  5. Prioritise ICT Initiatives (just fix the first few gaps)
   6. Evaluate Options
   7. Create Migration Plan
   8. Adjust ICT Strategy
@@ -76,7 +76,7 @@ Top 4 are very famous...
 * many ICT executives do not understand the business needs
 * No agreement
 * Based on organisation
-
+* Business and ICT maturity
 
 
 

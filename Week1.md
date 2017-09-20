@@ -52,11 +52,12 @@
 <br />
 
 ### What is ICT manager trying to do?
-*Improved agility – enabling rapid provisioning, changes, and repairs while maintaining cost-effectiveness
+* Improved **agility** – enabling rapid provisioning, changes, and repairs while maintaining cost-effectiveness
+
+
 * Improved accuracy – ensuring information on data centre inventory and configuration is accurate, timely, and complete, and that all compliance requirements are continuously met
 * Improved access protection – restricting information and system availability to only authorised personnel with essential business needs for access
 * Improved availability – keeping business processes operational by ensuring the continuous and optimal operation of systems, applications, and environmental conditions
-
 
 
 
